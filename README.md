@@ -9,7 +9,6 @@ Before you begin, make sure you have the following installed:
 
 - Node.js (version 18 or higher)
 - npm (version 9 or higher)
-- MySQL database management system
 
 ## Setup
 
